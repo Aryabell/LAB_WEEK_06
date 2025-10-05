@@ -61,6 +61,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.BalineseJavanese,
+                    "Leo",
+                    "The fearless jumper",
+                    "https://cdn2.thecatapi.com/images/8j4.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Luna",
+                    "Loves long naps",
+                    "https://cdn2.thecatapi.com/images/c8n.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Max",
+                    "Always curious about everything",
+                    "https://cdn2.thecatapi.com/images/9s2.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.BalineseJavanese,
+                    "Shadow",
+                    "Mysterious night hunter",
+                    "https://cdn2.thecatapi.com/images/5r7.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Ruby",
+                    "The friendly companion",
+                    "https://cdn2.thecatapi.com/images/ah5.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Oscar",
+                    "Playful troublemaker",
+                    "https://cdn2.thecatapi.com/images/6qi.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Bella",
+                    "Elegant and calm",
+                    "https://cdn2.thecatapi.com/images/bpc.jpg"
                 )
             )
         )
